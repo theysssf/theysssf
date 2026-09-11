@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm youssef</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img src="https://img.magnific.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80
-" width="400" align="right" alt="Coding">
-- 🔭 I’m currently studying at **an engeeniring school (ensa tetouan)**
+<img src="./assets/coding-banner.png" alt="Coding workspace" width="100%">
+- 🔭 I’m currently studying at an engeeniring school (ensa tetouan)
 
 - 🌱 I’m currently learning **node.JS**
 
